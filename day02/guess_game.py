@@ -2,12 +2,10 @@ import random
 
 random_number = random.randrange(1,21)
 guesses_cnt = 0
-true_guess = False
-while not true_guess:
+while True:
     new_guess = int(input("please write your guess"))
     guesses_cnt += 1
-    true_guess = random_number == new_guess
-    if true_guess:
+    if new_guess == random_number:
         print("You are right!")
         print(f"Number of guesses: {guesses_cnt} ")
         break
