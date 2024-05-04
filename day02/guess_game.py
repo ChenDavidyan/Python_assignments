@@ -1,6 +1,6 @@
 import random
 
-random_number = random.randrange(1,21)
+random_number = random.randrange(1, 21)
 guesses_cnt = 0
 while True:
     new_guess = int(input("please write your guess"))
