@@ -1,0 +1,17 @@
+id,GSE125240_HEK293_Aimseq_m6A,GSE125240_Human_brain_Aimseq_m6A,GSE125240_Human_kidney_Aimseq_m6A,GSE125240_Human_liver_Aimseq_m6A,GSE63753_hek293.abcam.CIMS.m6A.9536.bed,GSE63753_hek293.sysy.CITS.m6A.12051,GSM4024125_HEK293T_APOBEC1YTH_processed,GSM4024128_HEK293T_low_input_processed,GSM4024129_HEK293T_APOBEC1YTHmut_processed,GSM4024132_HEK293T_APOBEC1_processed,GSM4568663_PacBio_1,GSM4568664_PacBio_2,GSM1828594_precise_m6A_sites_CD8T_hg18,GSM1828596_precise_m6A_sites_A549_hg18,GSM6432590_293T-mRNA-1_35bp_m2.totalm6A.FDR.csv,GSM6432591_293T-mRNA-2_35bp_m2.totalm6A.FDR.csv,GSM6432593_FTO-1_35bp_m2.totalm6A.FDR.csv,GSM6432594_FTO-2_35bp_m2.totalm6A.FDR.csv,GSM6432595_Hela-1_35bp_m2.totalm6A.FDR.csv
+chr15_40687446_-,,,,,,,,,,,,,,,,1,,,
+chr4_48579565_+,,,,,,,,,,,,,,,,1,,,1
+chr21_33554266_+,,,,,,,1,1,,,,,,,,,,,
+chr8_60621224_+,,,,,,,,,1,,,,,,,,,,
+chr3_75643593_-,,,,,,,,,,,,,,,1,1,,,
+chr9_108202745_+,,,,,,,,,,,,,,,1,1,1,1,1
+chr21_10033415_+,,,,,,,,,,,,,,,,,,,1
+chr15_73304105_+,,,,,,,,,,,,,,,,,,,1
+chr16_85555466_+,,,,,,,,,,,,,,,,,,,1
+chr8_52623761_-,,,,,,,,,1,,,,,,,,,,
+chr10_132433839_-,,,,,,,,,,,,,,,,,,,1
+chr4_108657499_+,,,,,,,1,1,,,,,,,,,,,
+chr7_101088636_+,,,,,,,,,,,,,,,,1,,,
+chr1_9982510_+,,,,,,,,,,,,,,,1,,,,
+chr9_105520203_+,,,,,,,,,,,,,,,,,,,1
+chrX_110013718_+,,,,,,,,,,,,,,,,,,,1
