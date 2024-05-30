@@ -11,4 +11,4 @@ The file modifications.csv represents a comparative analysis of m6A modification
 * M6A-REF-seq
 * miCLIP
 
-The script modified_position.py calculates the sum of modifications at each genomic locus and prints the loci that were found in the most methods.
+The script modified_position.py calculates the sum of modifications at each genomic locus and prints the loci that was found most frequently across all methods and databases.
