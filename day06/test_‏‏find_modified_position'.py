@@ -4,8 +4,8 @@ import find_modified_position
 import pytest
 
 
-test1_path = "C:/work/Python_assignments/day06/test1.csv"
-test2_path = "C:/work/Python_assignments/day06/test2.csv"
+test1_path = "test1.csv"
+test2_path = "test2.csv"
 
 @pytest.mark.parametrize("text, expected", [
     (test1_path, 'chr9_108202745_+'), 
