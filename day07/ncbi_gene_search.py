@@ -35,12 +35,10 @@ def document_to_csv(term, count, total_count):
 
 
 def main():
-
     if len(sys.argv) != 3:
         print("Usage: python ncbi_lgene_search.py TERM COUNT")
         sys.exit(1)
 
-    
     term = sys.argv[1]
     count = sys.argv[2]
     ids, total_count = gene_search(term, count)
